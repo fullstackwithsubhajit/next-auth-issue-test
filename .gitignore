@@ -40,4 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Google OAuth secrets JSON
 Billing Software googleauth client id and secret.json
